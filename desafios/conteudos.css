@@ -103,7 +103,7 @@ header{
 
 .post__image img {
     width: 100%;
-    
+
 }
 
 .post__content,
@@ -154,7 +154,7 @@ iframe {
     height: 90%;
     position: absolute;
     top: 5vh;
-}
+} 
 
 /* MODAL MAXIMIZADO */
 
